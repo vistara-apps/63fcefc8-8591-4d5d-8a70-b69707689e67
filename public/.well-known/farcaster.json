@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "RefReward",
+    "subtitle": "Built with Zara",
+    "description": "RefReward is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://63fcefc885914d5d8a70b69707689e67-qhj9.vercel.app",
+    "splashImageUrl": "https://63fcefc885914d5d8a70b69707689e67-qhj9.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://63fcefc885914d5d8a70b69707689e67-qhj9.vercel.app/image.png",
+    "tagline": "RefReward",
+    "screenshotUrls": [
+      "https://63fcefc885914d5d8a70b69707689e67-qhj9.vercel.app/screenshot.png",
+      "https://63fcefc885914d5d8a70b69707689e67-qhj9.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://63fcefc885914d5d8a70b69707689e67-qhj9.vercel.app/api/webhook"
+  }
+}
